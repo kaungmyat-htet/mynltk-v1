@@ -1,0 +1,13 @@
+{
+    "myWord": {
+        "name": "myWord",
+        "latest_version": "1.0.0",
+        "description": "syllable, word, sub_word and phrase segmenter for Burmese (Myanmar language)",
+        "url": "https://github.com/ye-kyaw-thu/myWord",
+        "authors": [
+            "Ye Kyaw Thu"
+        ],
+        "author_email": "",
+        "license": "MIT-licensed"
+    }
+}
