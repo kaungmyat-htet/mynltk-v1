@@ -3,6 +3,7 @@
 myNLTK is a Python library for text processing focusing mainly on Myanmar Language.
 
 ### Installation
+> IMPORTANT! This NLP toolkit is still under development so you will not be able to install via pip yet.
 For stable version:
 ```sh
 pip install mynltk
